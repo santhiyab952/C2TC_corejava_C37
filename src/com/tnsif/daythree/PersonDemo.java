@@ -10,7 +10,7 @@ public class PersonDemo
 	private String gender;
 	@Override
 	public String toString() {
-		return "Person [Name=" + name + ", income=" + income + ", age=" + age + ", tax=" + tax + ", gender=" + gender+ "]";
+		return "Person [name=" + name + ", income=" + income + ", age=" + age + ", tax=" + tax + ", gender=" + gender+ "]";
 	}
 	public String getName() {
 		return name;

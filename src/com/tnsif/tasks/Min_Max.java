@@ -9,7 +9,9 @@ public class Min_Max {
 		
 		int MinEnteries=Math.max(19, 17);
 		int MaxEntries=A+B;
-		System.out.println(MinEnteries+" "+MaxEnteries);
+		System.out.println(MinEnteries);
+		System.out.println(MaxEntries);
+
 	}
 
 }
